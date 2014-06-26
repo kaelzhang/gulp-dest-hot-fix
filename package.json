@@ -20,6 +20,7 @@
     "graceful-fs": "^3.0.2",
     "lodash.defaults": "^2.4.1",
     "mkdirp": "^0.5.0",
+    "strip-bom": "^0.3.1",
     "through2": "^0.5.1"
   }
 }

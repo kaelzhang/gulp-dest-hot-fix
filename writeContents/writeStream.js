@@ -1,6 +1,6 @@
 'use strict';
 
-var streamFile = require('../../src/getContents/streamFile');
+var streamFile = require('../getContents/streamFile');
 var fs = require('graceful-fs');
 
 function writeStream (writePath, file, cb) {
